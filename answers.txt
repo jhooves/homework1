@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A centralized repository all people on a team can access and push/pull to/from.
