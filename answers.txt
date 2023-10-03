@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 What is the difference between a merge and a rebase?
 
 A merge attempts to merge two different versions of a file together and shows you the errors to manually fix.
 A rebase changes the base of a branch to a specified commit in that branch. So if you dont need commits 1 and 2 to a branch, you can make commit 3 the new head.
+=======
+What is a remote repository?
+
+A centralized repository all people on a team can access and push/pull to/from.
+>>>>>>> progress
